@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  WeatherMap
+
+  Created by Prathesh Santh Muthuramalingam on 1/11/18.
+  Copyright © 2018 Prathesh Santh Muthuramalingam. All rights reserved.
+*/
+
+// MARK: ERROR MESSAGES
+"NoCityMatchAlertTitle" = "Matching city not found !!";
+"NoCityMatchAlertMessage" = "Please enter a valid city name and retry";
+"GeneralErrorAlertTitle" = "General Error";
+"GeneralErrorAlertMessage" = "Please try after sometime";
+
+// MARK: WEATHER MAP INFO KEY NAMES
+"SunriseInfoKeyText" = "Sunrise";
+"SunsetInfoKeyText" = "Sunset";
+"HumidityInfoKeyText" = "Humidity";
+"WindInfoKeyText" = "Wind";
+"PressureInfoKeyText" = "Pressure";
+"VisibilityInfoKeyText" = "Visibility";
+
+
